@@ -1,6 +1,0 @@
-Copyright (c) 2026 Saddamhmn
-
-Permission is granted for personal and educational use only.
-
-Commercial use, redistribution, or resale of this software
-without written permission from the author is prohibited.
