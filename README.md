@@ -33,7 +33,7 @@ A web-based monitoring system for managing and tracking CCTV devices across mult
 
 ```bash
 # Clone repository
-git clone https://github.com/USERNAME/Project_Monitoring.git
+git clone https://github.com/saddamhmn/Project_Monitoring.git
 cd Project_Monitoring
 
 # Install dependencies
