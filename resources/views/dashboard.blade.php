@@ -219,7 +219,7 @@
                         <form id="buildingForm" method="POST" action="{{ route('buildings.store') }}" enctype="multipart/form-data"
                             class="space-y-3 hidden"
                             data-store-url="{{ route('buildings.store') }}"
-                            data-update-url-template="{{ url('/gedung') }}/__ID__">
+                            data-update-url-template="{{ url('/monitoring') }}/__ID__">
                             @csrf
                             <input type="hidden" name="_method" id="formMethod" value="POST">
                             <input type="hidden" name="marker_lat" id="marker_lat">
