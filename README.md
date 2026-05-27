@@ -9,7 +9,7 @@ A web-based monitoring system for managing and tracking CCTV devices across mult
 - **Outdoor CCTV** — Track outdoor CCTV markers with coordinates
 - **Error Reporting** — Report and acknowledge CCTV errors with documentation
 - **Maintenance Tracking** — Log maintenance activities with technician records
-- ⏱**Threshold Alerts** — Configurable due and overdue maintenance thresholds
+- **Threshold Alerts** — Configurable due and overdue maintenance thresholds
 - **Real-time Notifications** — Audio and visual alerts for active CCTV errors
 - **Role-based Access** — Multiple user roles (Super Admin, Manager, Technician, Security)
 - **Activity Logs** — Complete log history with export to Excel
