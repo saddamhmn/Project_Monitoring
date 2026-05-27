@@ -17,26 +17,6 @@ return new class extends Migration
             $table->text('description')->nullable();
             $table->timestamps();
         });
-
-        // Default values
-        DB::table('settings')->insert([
-            [
-                'key'         => 'threshold_due_hours',
-                'value'       => '24',
-                'label'       => 'Threshold Due',
-                'description' => 'Jam sebelum CCTV berstatus Perlu Maintenance',
-                'created_at'  => now(),
-                'updated_at'  => now(),
-            ],
-            [
-                'key'         => 'threshold_overdue_hours',
-                'value'       => '72',
-                'label'       => 'Threshold Overdue',
-                'description' => 'Jam sebelum CCTV berstatus Overdue',
-                'created_at'  => now(),
-                'updated_at'  => now(),
-            ],
-        ]);
     }
 
     public function down(): void
