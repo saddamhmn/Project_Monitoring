@@ -4,16 +4,16 @@ A web-based monitoring system for managing and tracking CCTV devices across mult
 
 ## Features
 
-- 📍 **Interactive Map** — Visual monitoring of CCTV locations on a real-time map
-- 🏢 **Multi-Building Support** — Manage indoor CCTV per building and floor with floor plan overlay
-- 📷 **Outdoor CCTV** — Track outdoor CCTV markers with GPS coordinates
-- 🔴 **Error Reporting** — Report and acknowledge CCTV errors with photo documentation
-- 🔧 **Maintenance Tracking** — Log maintenance activities with technician records
-- ⏱️ **Threshold Alerts** — Configurable due and overdue maintenance thresholds
-- 🔔 **Real-time Notifications** — Audio and visual alerts for active CCTV errors
-- 👥 **Role-based Access** — Multiple user roles (Super Admin, Manager, Technician, Security)
-- 📊 **Activity Logs** — Complete log history with export to Excel
-- ⚙️ **Customizable Settings** — Color themes, thresholds, and daily reset configuration
+- **Interactive Map** — Visual monitoring of CCTV locations on a real-time map
+- **Multi-Building Support** — Manage indoor CCTV per building and floor with floor plan overlay
+- **Outdoor CCTV** — Track outdoor CCTV markers with coordinates
+- **Error Reporting** — Report and acknowledge CCTV errors with documentation
+- **Maintenance Tracking** — Log maintenance activities with technician records
+- ⏱**Threshold Alerts** — Configurable due and overdue maintenance thresholds
+- **Real-time Notifications** — Audio and visual alerts for active CCTV errors
+- **Role-based Access** — Multiple user roles (Super Admin, Manager, Technician, Security)
+- **Activity Logs** — Complete log history with export to Excel
+- **Customizable Settings** — Color themes, thresholds, and daily reset configuration
 
 ## Tech Stack
 
